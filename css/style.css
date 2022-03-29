@@ -425,7 +425,7 @@ li{
     color: #ad0961;
     font-family: orelo;
     transform-origin: 50% 50%;
-    transform: translate3d(0px, 38px, -38px) rotateX(-90deg) ;
+    transform: translate(0px, 0px) ;
     opacity: 1;
     visibility: inherit;
 }
